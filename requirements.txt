@@ -1,0 +1,9 @@
+sqlite3
+numpy
+matplotlib
+voila
+ipympl
+pandas
+ipywidgets
+seaborn
+country_converter
